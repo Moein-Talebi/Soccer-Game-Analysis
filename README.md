@@ -17,3 +17,6 @@ This project serves as a practical application of the concepts I've learned, ins
 - **Speed and Distance Calculation**: Computes each player's speed and distance covered.
 
 ## Requirements
+
+[Go to requirements.txt](https://github.com/Moein-Talebi/Soccer-Game-Analysis/blob/main/requirements.txt)
+
