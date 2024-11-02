@@ -5,7 +5,7 @@ This project is designed to detect and track players, referees, and footballs in
 This project serves as a practical application of the concepts I've learned, inspired by various YouTube videos. It encompasses a range of techniques and addresses real-world challenges, making it a valuable experience for both novice and experienced machine learning engineers.                                      
 
 ## Image of output
-![Screenshot](output_videos/screenshot.png)
+![Screenshot](https://github.com/Moein-Talebi/Soccer-Game-Analysis/blob/main/output/screenshot.png)
 
 
 ## Modules Used in This Project
